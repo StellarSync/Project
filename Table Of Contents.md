@@ -1,4 +1,0 @@
-
-[[Introduction]]
-[[Requirements]]
-[[Parts used]]
