@@ -1,8 +1,8 @@
-# 🛠 Getting set up
+# About
 
 <details>
 
-<summary>Step1: Creating your organization</summary>
+<summary</summary>
 
 
 

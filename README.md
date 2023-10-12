@@ -29,7 +29,7 @@ Here lies the overall abstraction of the whole project and other required notes,
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
 {% content-ref url="fundamentals/getting-set-up.md" %}
-[getting-set-up.md](fundamentals/getting-set-up.md)
+[getting-set-up.md](About%20project.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
