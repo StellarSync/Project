@@ -8,7 +8,7 @@
 
 ## Fundamentals
 
-* [🛠 Getting set up](About%20project.md)
+* [🛠 Getting set up](fundamentals/getting-set-up.md)
 
 ## Use Cases
 
