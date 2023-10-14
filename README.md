@@ -21,7 +21,3 @@ Here lies the overall abstraction of the whole project and other required notes,
 [parts-and-components.md](overview/parts-and-components.md "mention")
 
 </details>
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
