@@ -12,11 +12,15 @@ Here lies the overall abstraction of the whole project and other required notes,
 
 > The project was initiated with a team of six, second year and first year students from different faculties coming together to work on a common level, those were two from electronics second year and three from mechanical second year and one from mechanical first year and plus one mentor from electronics faculty. Later the group was re-organized due to some problems in the team, to a team of four, two from electronics second year and two from mechanical, one from first year and the other from second year, with one mentor from third year electronics and one more from third year mechanical. The project was given a purpose by the hard work of these members and mentors and the help from [Robotics Club, IOE Purwanchal Campus, Dharan.](https://maps.app.goo.gl/1zxnQARuhcLXbbhD6)
 
-## Quick links
+## Links
 
-{% content-ref url="overview/parts-and-components.md" %}
-[parts-and-components.md](overview/parts-and-components.md)
-{% endcontent-ref %}
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f9f0">🧰</span> About Project</summary>
+
+[parts-and-components.md](overview/parts-and-components.md "mention")
+
+</details>
 
 ## Get Started
 
