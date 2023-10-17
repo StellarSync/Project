@@ -6,10 +6,6 @@
 
 * [🛠 Parts and Components](overview/parts-and-components.md)
 
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up.md)
-
 ## Use Cases
 
 * [🎨 For Designers](use-cases/for-designers.md)

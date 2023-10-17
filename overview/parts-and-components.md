@@ -10,8 +10,6 @@ description: >-
 **Note:  Please  go through this page thoroughly to understand the parts used in the project. In case of any confusion go through the supporting links provided as well.**
 {% endhint %}
 
-##
-
 ## Parts and components
 
 Our CNC machine is made with locally available parts and some bought parts as well. We have used woods as much as possible in the manufacturing and made it such that it can be replicated with a little knowledge about parts and hardware used.
