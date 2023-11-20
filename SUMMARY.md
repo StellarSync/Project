@@ -8,5 +8,5 @@
 
 ## Use Cases
 
-* [🎨 For Designers](use-cases/for-designers.md)
+* [🎨 Project designs](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
